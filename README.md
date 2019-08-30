@@ -1,3 +1,6 @@
+## WIP
+This will be clone and go [slyd](https://github.com/argyleink/slyd) creation
+
 ### Modern Javascript ›
 [Rollup](https://rollupjs.org) to **bundle**, **treeshake**, **import from NPM or URLs**, and **import CSS**. 
 
