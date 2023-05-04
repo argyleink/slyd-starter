@@ -1,5 +1,5 @@
 ## Slyd Starter
-Clone and go [slyd](https://github.com/argyleink/slyd) creation 👍, built on top of [shortstack](https://github.com/argyleink/shortstack) for modern CSS/JS authoring & live reload
+Clone and go [slyd](https://github.com/argyleink/slyd) creation 👍.
 
 <br>
 

@@ -1,8 +1,8 @@
 {
-  "name": "2021-hover-conf-slyds",
+  "name": "slyd-starter",
   "author": "Adam Argyle",
   "license": "ISC",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "browserslist": [
     "defaults"
   ],
@@ -13,11 +13,10 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "postcss-easings": "3.x",
-    "postcss-preset-env": "6.7.x",
-    "vite": "2.x  || >2.0.0-alpha"
+    "postcss-preset-env": "8.3.2",
+    "vite": "4.3.4"
   },
   "dependencies": {
-    "slyd": "0.0.4"
+    "slyd": "0.1.0"
   }
 }
